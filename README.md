@@ -34,3 +34,5 @@ Toujours plus propres, plus rapides, plus intelligents.
 
 ## 🔗 Liens
 Discord : @niceware  
+
+# ✦𝓝𝓲𝓬𝓮𝔀𝓪𝓻𝓮✦
