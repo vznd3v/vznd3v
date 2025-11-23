@@ -16,7 +16,7 @@ I love building clean, fast systems designed to scale — whether it’s in JS, 
 ![Svelte](https://img.shields.io/badge/Svelte-f73c00?logo=svelte&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+
 
 
 
