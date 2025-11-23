@@ -1,11 +1,11 @@
-# 👋 Yo, moi c'est niceware
+# 👋 Hey, I’m niceware
 
-Développeur bots Discord, web dev, créateur d’APIs et amateur de projets qui tapent fort.  
-J'aime construire des systèmes propres, rapides et pensés pour scale — que ce soit en JS, Python, Java ou sur des frameworks modernes comme Vue & Svelte.
+Discord bot developer, web dev, API creator, and fan of high-impact projects.  
+I love building clean, fast systems designed to scale — whether it’s in JS, Python, Java, or modern frameworks like Vue & Svelte.
 
 ---
 
-## 🚀 Stack principale
+## 🚀 Main Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript)
 ![Node.js](https://img.shields.io/badge/Node.js-black?logo=node.js)
@@ -15,24 +15,25 @@ J'aime construire des systèmes propres, rapides et pensés pour scale — que c
 ![Vue.js](https://img.shields.io/badge/Vue.js-42b883?logo=vuedotjs&logoColor=white)
 ![Svelte](https://img.shields.io/badge/Svelte-f73c00?logo=svelte&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
----
-
-## 🔧 Ce que je fais
-- Bots Discord structurés (loader auto, interactions propres)
-- Dév web front/back
-- APIs & automation
-- Plugin minecraft spigot
-
 
 ---
 
-## 📈 Objectif
-Construire des outils, des APIs et des logiciels solides.  
-Toujours plus propres, plus rapides, plus intelligents.
+## 🔧 What I Do
+- Structured Discord bots (auto-loader, clean interactions)  
+- Frontend & backend web development  
+- APIs & automation  
+- Minecraft Spigot plugins  
 
 ---
 
-## 🔗 Liens
-Discord : @niceware  
+## 📈 Goal
+Build solid tools, APIs, and software.  
+Always cleaner, faster, smarter.  
+
+---
+
+## 🔗 Links
+Discord: @niceware  
 
 # ℕι¢єωαяє
+
