@@ -16,7 +16,7 @@ I love building clean, fast systems designed to scale — whether it’s in JS, 
 ![Svelte](https://img.shields.io/badge/Svelte-f73c00?logo=svelte&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-[![Roblox Studio Scripter](https://img.shields.io/badge/Roblox%20Studio-Scripter-0078D7?logo=roblox&logoColor=white)](https://www.roblox.com/)
+![Roblox Studio Scripter](https://img.shields.io/badge/Roblox%20Studio-Scripter-2e54ff?logo=roblox&logoColor=white)](https://www.roblox.com/)
 
 
 
