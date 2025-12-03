@@ -24,7 +24,7 @@ I love building clean, fast systems designed to scale — whether it’s in JS, 
 
 ---
 
-## 📂 am i free fro projects ?
+## 📂 Am I available for projects?
 
 ![Open for projects](https://img.shields.io/badge/open%20for%20projects-yes-green)
 
