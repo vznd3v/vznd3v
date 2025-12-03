@@ -22,7 +22,9 @@ I love building clean, fast systems designed to scale — whether it’s in JS, 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
+---
 
+## 📂 am i free fro projects ?
 
 ![Open for projects](https://img.shields.io/badge/open%20for%20projects-yes-green)
 
