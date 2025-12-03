@@ -19,6 +19,7 @@ I love building clean, fast systems designed to scale — whether it’s in JS, 
 [![Roblox Scripter](https://img.shields.io/badge/Roblox%20Scripter-2e54ff?logo=roblox&logoColor=white)](https://www.roblox.com/)
 ![lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)
 ![tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
 
