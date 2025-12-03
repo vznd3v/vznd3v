@@ -11,7 +11,7 @@ I love building clean, fast systems designed to scale — whether it’s in JS, 
 ![Node.js](https://img.shields.io/badge/Node.js-black?logo=node.js)
 ![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?logo=discord&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-black?logo=python)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg&logoColor=white)](https://www.java.com/)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=https://imgur.com/a/BRcXT9V&logoColor=white)](https://www.java.com/)
 ![Vue.js](https://img.shields.io/badge/Vue.js-42b883?logo=vuedotjs&logoColor=white)
 ![Svelte](https://img.shields.io/badge/Svelte-f73c00?logo=svelte&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
