@@ -20,7 +20,6 @@ I love building clean, fast systems designed to scale — whether it’s in JS, 
 ![lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)
 ![tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![FiveM Scripter](https://img.shields.io/badge/FiveM%20Scripter-FF5500?style=flat-rounded&logo=fivem&logoColor=white)
 ---
