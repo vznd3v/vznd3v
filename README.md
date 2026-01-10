@@ -1,4 +1,4 @@
-# 👋 Hey, I’m niceware
+# 👋 Hey, vzn.d3v
 
 Discord bot developer, web dev, API creator, and fan of high-impact projects.  
 I love building clean, fast systems designed to scale — whether it’s in JS, Python, Java, or modern frameworks like Vue & Svelte.
@@ -51,5 +51,5 @@ Always cleaner, faster, smarter.
 ## 🔗 Links
 Discord: @niceware  
 
-# ℕι¢єωαяє
+# vzn.d3v
 
