@@ -1,11 +1,11 @@
-# 👋 Hey, vzn.d3v
+# 👋 I’m **vzn.d3v**  
 
-Discord bot developer, web dev, API creator, and fan of high-impact projects.  
-I love building clean, fast systems designed to scale — whether it’s in JS, Python, Java, or modern frameworks like Vue & Svelte.
+I build **Discord bots, web apps, APIs, and automation tools** with speed and precision.  
+I focus on **clean, scalable, high-performance systems** across multiple languages and frameworks.  
 
 ---
 
-## 🚀 Main Stack
+## ⚡ Core Skills
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript)
 ![Node.js](https://img.shields.io/badge/Node.js-black?logo=node.js)
@@ -17,39 +17,32 @@ I love building clean, fast systems designed to scale — whether it’s in JS, 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 [![Roblox Scripter](https://img.shields.io/badge/Roblox%20Scripter-2e54ff?logo=roblox&logoColor=white)](https://www.roblox.com/)
-![lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)
-![tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![FiveM Scripter](https://img.shields.io/badge/FiveM%20Scripter-FF5500?style=flat-rounded&logo=fivem&logoColor=white)
----
-
-## 📂 Am I available for projects?
-
-![Open for projects](https://img.shields.io/badge/open%20for%20projects-yes-green)
-
-
-
-
 
 ---
 
-## 🔧 What I Do
-- Structured Discord bots (auto-loader, clean interactions)  
-- Frontend & backend web development  
-- APIs & automation  
-- Minecraft Spigot plugins  
+## 🛠 Projects I Focus On
+
+- **Discord Bots:** modular, maintainable, and lightning-fast  
+- **Web Development:** fullstack solutions with modern frameworks  
+- **APIs & Automation:** tools that save time and increase productivity  
+- **Game Plugins:** Minecraft Spigot & Roblox scripting  
 
 ---
 
-## 📈 Goal
-Build solid tools, APIs, and software.  
-Always cleaner, faster, smarter.  
+## 🌟 Philosophy
+
+Code should be **clean, smart, and efficient**.  
+I aim for **solutions that scale**, stay reliable, and just work.  
 
 ---
 
-## 🔗 Links
-Discord: @niceware  
+## 📬 Let’s Connect
 
-# vzn.d3v
+**Discord:** vzn.d3v  
 
+![Open for projects](https://img.shields.io/badge/open%20for%20projects-yes-green)  
