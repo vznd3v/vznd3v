@@ -9,6 +9,7 @@ My focus: **practical, scalable, and transparent AI** using the latest open-sour
 
 ![Python](https://img.shields.io/badge/Python-black?logo=python)
 ![Pydantic AI](https://img.shields.io/badge/Pydantic%20AI-3776AB?style=flat&logo=python&logoColor=white)
+![uv](https://img.shields.io/badge/uv-%23DE5FE9.svg?style=flat&logo=uv&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Vercel AI SDK](https://img.shields.io/badge/Vercel%20AI%20SDK-000000?logo=vercel&logoColor=white)
 ![Mastra](https://img.shields.io/badge/Mastra-000000?style=flat&logo=typescript&logoColor=white)
@@ -16,6 +17,7 @@ My focus: **practical, scalable, and transparent AI** using the latest open-sour
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+
 
 ---
 
